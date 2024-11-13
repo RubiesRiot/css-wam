@@ -1,20 +1,20 @@
 /* Your code here */
 .wgs {
-  position:fixed;
-  width:100%;
-  height:100%;
+  position:relative;
+  width:640px;
+  height:482px;
 }
 
 .wgs__mole-head {
-  position:relative;
-  width:100%;
-  height:100%;
+  position:absolute;
+  width:376px;
+  height:356px;
 }
 
 .wgs__dirt-pile {
-  position:relative;
-  width:100%;
-  height:100%;
+  position:absolute;
+  width:640px;
+  height:220px;
 }
 
 
