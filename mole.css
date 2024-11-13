@@ -9,12 +9,14 @@
   position:relative;
   width:100%;
   height:100%;
+  background-image:url('https://github.com/RubiesRiot/css-wam/blob/main/mole-head.png?raw=true')
 }
 
 .wgs__dirt-pile {
   position:relative;
   width:100%;
   height:100%;
+  background-image:url('https://github.com/RubiesRiot/css-wam/blob/main/mole-hill.png?raw=true')
 }
 
 
