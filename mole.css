@@ -1,4 +1,8 @@
 /* Your code here */
+body {
+  zoom: 0.75;
+}
+
 .pf {
   display: grid;
   grid-template-rows:25% 25% 25% 25%;
