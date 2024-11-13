@@ -4,6 +4,7 @@
   width:640px;
   height:482px;
   display:inline-block;
+  overflow:hidden;
 }
 
 .wgs__mole-head {
