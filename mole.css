@@ -21,6 +21,7 @@ body {
   width:376px;
   height:356px;
   margin-left:109px;
+  margin-top: 0px;
   transition: margin-top 0.25s;
 }
 
