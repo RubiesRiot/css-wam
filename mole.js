@@ -20,7 +20,7 @@ function popUpRandomMole() {
 
   clickable = true;
 
-  moleHead.classList.remove('wgs__mole-head--hidden', 'wgs__mole-head--whacked');
+  moleHead.classList.remove('wgs__mole-head--hidden');
 
   molesLeft -= 1;
   document.querySelector('.sb__moles').innerHTML = molesLeft;
